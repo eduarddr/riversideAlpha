@@ -1,0 +1,8 @@
+@media (max-width: 765px) {
+ .navtext {
+  float: left !important;
+}
+.navbar{
+  padding-left: 150px;
+}
+}
